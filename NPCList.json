@@ -20,7 +20,7 @@
     },
     {
       "Name": "EyeofCthulhu",
-      "Price": 2974.0,
+      "Price": 28174.0,
       "ID": 4,
       "Mod": "Vanilla"
     },
@@ -50,7 +50,7 @@
     },
     {
       "Name": "EaterofWorlds",
-      "Price": 289.0,
+      "Price": 904.0,
       "ID": 13,
       "Mod": "Vanilla"
     },
@@ -170,7 +170,7 @@
     },
     {
       "Name": "Skeletron",
-      "Price": 4740.0,
+      "Price": 44370.0,
       "ID": 35,
       "Mod": "Vanilla"
     },
@@ -242,7 +242,7 @@
     },
     {
       "Name": "KingSlime",
-      "Price": 2420.0,
+      "Price": 20420.0,
       "ID": 50,
       "Mod": "Vanilla"
     },
@@ -350,13 +350,13 @@
     },
     {
       "Name": "DungeonGuardian",
-      "Price": 39997.0,
+      "Price": 30997.0,
       "ID": 68,
       "Mod": "Vanilla"
     },
     {
       "Name": "Antlion",
-      "Price": 157.0,
+      "Price": 109.0,
       "ID": 69,
       "Mod": "Vanilla"
     },
@@ -500,7 +500,7 @@
     },
     {
       "Name": "GreenJellyfish",
-      "Price": 980.0,
+      "Price": 528.0,
       "ID": 103,
       "Mod": "Vanilla"
     },
@@ -608,19 +608,19 @@
     },
     {
       "Name": "Retinazer",
-      "Price": 20470.0,
+      "Price": 160520.0,
       "ID": 125,
       "Mod": "Vanilla"
     },
     {
       "Name": "Spazmatism",
-      "Price": 23520.0,
+      "Price": 184620.0,
       "ID": 126,
       "Mod": "Vanilla"
     },
     {
       "Name": "SkeletronPrime",
-      "Price": 28518.0,
+      "Price": 224548.0,
       "ID": 127,
       "Mod": "Vanilla"
     },
@@ -638,7 +638,7 @@
     },
     {
       "Name": "TheDestroyer",
-      "Price": 80700.0,
+      "Price": 640700.0,
       "ID": 134,
       "Mod": "Vanilla"
     },
@@ -656,7 +656,7 @@
     },
     {
       "Name": "Probe",
-      "Price": 740.0,
+      "Price": 600.0,
       "ID": 139,
       "Mod": "Vanilla"
     },
@@ -1058,7 +1058,7 @@
     },
     {
       "Name": "QueenBee",
-      "Price": 3716.0,
+      "Price": 34316.0,
       "ID": 222,
       "Mod": "Vanilla"
     },
@@ -1160,7 +1160,7 @@
     },
     {
       "Name": "Golem",
-      "Price": 9772.0,
+      "Price": 90952.0,
       "ID": 245,
       "Mod": "Vanilla"
     },
@@ -1232,7 +1232,7 @@
     },
     {
       "Name": "Plantera",
-      "Price": 30528.0,
+      "Price": 300528.0,
       "ID": 262,
       "Mod": "Vanilla"
     },
@@ -1244,7 +1244,7 @@
     },
     {
       "Name": "BrainofCthulhu",
-      "Price": 1328.0,
+      "Price": 10328.0,
       "ID": 266,
       "Mod": "Vanilla"
     },
@@ -1610,7 +1610,7 @@
     },
     {
       "Name": "DukeFishron",
-      "Price": 51100.0,
+      "Price": 501100.0,
       "ID": 370,
       "Mod": "Vanilla"
     },
@@ -1754,7 +1754,7 @@
     },
     {
       "Name": "MoonLord",
-      "Price": 45100.0,
+      "Price": 450100.0,
       "ID": 396,
       "Mod": "Vanilla"
     },
@@ -1922,7 +1922,7 @@
     },
     {
       "Name": "LunaticCultist",
-      "Price": 32584.0,
+      "Price": 384584.0,
       "ID": 439,
       "Mod": "Vanilla"
     },
@@ -1982,7 +1982,7 @@
     },
     {
       "Name": "PhantasmDragon",
-      "Price": 4820.0,
+      "Price": 5220.0,
       "ID": 454,
       "Mod": "Vanilla"
     },
@@ -2216,13 +2216,13 @@
     },
     {
       "Name": "AntlionCharger",
-      "Price": 342.0,
+      "Price": 248.0,
       "ID": 508,
       "Mod": "Vanilla"
     },
     {
       "Name": "AntlionSwarmer",
-      "Price": 374.0,
+      "Price": 269.0,
       "ID": 509,
       "Mod": "Vanilla"
     },
@@ -2246,19 +2246,19 @@
     },
     {
       "Name": "TombCrawler",
-      "Price": 420.0,
+      "Price": 286.0,
       "ID": 513,
       "Mod": "Vanilla"
     },
     {
       "Name": "TombCrawler",
-      "Price": 420.0,
+      "Price": 286.0,
       "ID": 514,
       "Mod": "Vanilla"
     },
     {
       "Name": "TombCrawler",
-      "Price": 420.0,
+      "Price": 286.0,
       "ID": 515,
       "Mod": "Vanilla"
     },
@@ -2537,6 +2537,3330 @@
       "Price": 380.0,
       "ID": 579,
       "Mod": "Vanilla"
+    },
+    {
+      "Name": "DiseasterBunny",
+      "Price": 290.0,
+      "ID": 580,
+      "Mod": "AFKPETS.AFKPets"
+    },
+    {
+      "Name": "ForsakenMessenger",
+      "Price": 500.0,
+      "ID": 581,
+      "Mod": "AFKPETS.AFKPets"
+    },
+    {
+      "Name": "Lepus",
+      "Price": 7874.0,
+      "ID": 582,
+      "Mod": "AFKPETS.AFKPets"
+    },
+    {
+      "Name": "LepusEgg",
+      "Price": 25.0,
+      "ID": 583,
+      "Mod": "AFKPETS.AFKPets"
+    },
+    {
+      "Name": "Ocram",
+      "Price": 17690.0,
+      "ID": 584,
+      "Mod": "AFKPETS.AFKPets"
+    },
+    {
+      "Name": "ServantofOcram",
+      "Price": 410.0,
+      "ID": 585,
+      "Mod": "AFKPETS.AFKPets"
+    },
+    {
+      "Name": "TurkorBody",
+      "Price": 7800.0,
+      "ID": 586,
+      "Mod": "AFKPETS.AFKPets"
+    },
+    {
+      "Name": "TurkorHead",
+      "Price": 2550.0,
+      "ID": 587,
+      "Mod": "AFKPETS.AFKPets"
+    },
+    {
+      "Name": "Antony,theNoviceNecromancer",
+      "Price": 1912.0,
+      "ID": 588,
+      "Mod": "AFKPETS.AFKPets"
+    },
+    {
+      "Name": "Antony,theNoviceNecromancer",
+      "Price": 1912.0,
+      "ID": 589,
+      "Mod": "AFKPETS.AFKPets"
+    },
+    {
+      "Name": "NoviceNecromancer",
+      "Price": 608.0,
+      "ID": 590,
+      "Mod": "AFKPETS.AFKPets"
+    },
+    {
+      "Name": "NoviceNecromancer",
+      "Price": 608.0,
+      "ID": 591,
+      "Mod": "AFKPETS.AFKPets"
+    },
+    {
+      "Name": "ShadowflameSkull",
+      "Price": 2540.0,
+      "ID": 592,
+      "Mod": "AFKPETS.AFKPets"
+    },
+    {
+      "Name": "BigBone",
+      "Price": 412.0,
+      "ID": 593,
+      "Mod": "AFKPETS.AFKPets"
+    },
+    {
+      "Name": "SilentAssassin",
+      "Price": 280.0,
+      "ID": 594,
+      "Mod": "AFKPETS.AFKPets"
+    },
+    {
+      "Name": "Assistant",
+      "Price": 280.0,
+      "ID": 595,
+      "Mod": "AFKPETS.AFKPets"
+    },
+    {
+      "Name": "HolyCrusader",
+      "Price": 280.0,
+      "ID": 596,
+      "Mod": "AFKPETS.AFKPets"
+    },
+    {
+      "Name": "IceFairy",
+      "Price": 280.0,
+      "ID": 597,
+      "Mod": "AFKPETS.AFKPets"
+    },
+    {
+      "Name": "Researcher",
+      "Price": 280.0,
+      "ID": 598,
+      "Mod": "AFKPETS.AFKPets"
+    },
+    {
+      "Name": "???",
+      "Price": 1.0,
+      "ID": 599,
+      "Mod": "AFKPETS.AFKPets"
+    },
+    {
+      "Name": "MetalBone",
+      "Price": 99991.0,
+      "ID": 600,
+      "Mod": "AFKPETS.AFKPets"
+    },
+    {
+      "Name": "AngryBunny",
+      "Price": 245.0,
+      "ID": 601,
+      "Mod": "AFKPETS.AFKPets"
+    },
+    {
+      "Name": "B.U.N.-E.",
+      "Price": 260.0,
+      "ID": 602,
+      "Mod": "AFKPETS.AFKPets"
+    },
+    {
+      "Name": "B.U.N.-I",
+      "Price": 248.0,
+      "ID": 603,
+      "Mod": "AFKPETS.AFKPets"
+    },
+    {
+      "Name": "BunnyZeppelin",
+      "Price": 2820.0,
+      "ID": 604,
+      "Mod": "AFKPETS.AFKPets"
+    },
+    {
+      "Name": "BunnyZeppelin",
+      "Price": 2820.0,
+      "ID": 605,
+      "Mod": "AFKPETS.AFKPets"
+    },
+    {
+      "Name": "BunnyZeppelin",
+      "Price": 2820.0,
+      "ID": 606,
+      "Mod": "AFKPETS.AFKPets"
+    },
+    {
+      "Name": "Duke'sShadow",
+      "Price": 21000.0,
+      "ID": 607,
+      "Mod": "AFKPETS.AFKPets"
+    },
+    {
+      "Name": "King'sShadow",
+      "Price": 1900.0,
+      "ID": 608,
+      "Mod": "AFKPETS.AFKPets"
+    },
+    {
+      "Name": "Plantera'sShadow",
+      "Price": 40300.0,
+      "ID": 609,
+      "Mod": "AFKPETS.AFKPets"
+    },
+    {
+      "Name": "HoneyBee",
+      "Price": 10.0,
+      "ID": 610,
+      "Mod": "AFKPETS.AFKPets"
+    },
+    {
+      "Name": "TinySpider",
+      "Price": 10.0,
+      "ID": 611,
+      "Mod": "AFKPETS.AFKPets"
+    },
+    {
+      "Name": "Observerof???",
+      "Price": 40.0,
+      "ID": 612,
+      "Mod": "AFKPETS.AFKPets"
+    },
+    {
+      "Name": "PhantasmDragon",
+      "Price": 24498.0,
+      "ID": 613,
+      "Mod": "AFKPETS.AFKPets"
+    },
+    {
+      "Name": "PhantasmDragon",
+      "Price": 24498.0,
+      "ID": 614,
+      "Mod": "AFKPETS.AFKPets"
+    },
+    {
+      "Name": "PhantasmDragon",
+      "Price": 24498.0,
+      "ID": 615,
+      "Mod": "AFKPETS.AFKPets"
+    },
+    {
+      "Name": "CameraLock",
+      "Price": 2.0,
+      "ID": 616,
+      "Mod": "AFKPETS.AFKPets"
+    },
+    {
+      "Name": "DrFetus",
+      "Price": 1832.0,
+      "ID": 617,
+      "Mod": "AFKPETS.AFKPets"
+    },
+    {
+      "Name": "DrFetus",
+      "Price": 1832.0,
+      "ID": 618,
+      "Mod": "AFKPETS.AFKPets"
+    },
+    {
+      "Name": "DrFetus",
+      "Price": 1832.0,
+      "ID": 619,
+      "Mod": "AFKPETS.AFKPets"
+    },
+    {
+      "Name": "EnragedCreeper",
+      "Price": 250.0,
+      "ID": 620,
+      "Mod": "AFKPETS.AFKPets"
+    },
+    {
+      "Name": "NightmareEyeofCthulhu",
+      "Price": 20300.0,
+      "ID": 621,
+      "Mod": "AFKPETS.AFKPets"
+    },
+    {
+      "Name": "EnragedTentacle",
+      "Price": 640.0,
+      "ID": 622,
+      "Mod": "AFKPETS.AFKPets"
+    },
+    {
+      "Name": "LunarEnergy",
+      "Price": 932.0,
+      "ID": 623,
+      "Mod": "AFKPETS.AFKPets"
+    },
+    {
+      "Name": "FlyingLeech",
+      "Price": 292.0,
+      "ID": 624,
+      "Mod": "AFKPETS.AFKPets"
+    },
+    {
+      "Name": "FlyingLeech",
+      "Price": 292.0,
+      "ID": 625,
+      "Mod": "AFKPETS.AFKPets"
+    },
+    {
+      "Name": "FlyingLeech",
+      "Price": 292.0,
+      "ID": 626,
+      "Mod": "AFKPETS.AFKPets"
+    },
+    {
+      "Name": "Furret",
+      "Price": 24398.0,
+      "ID": 627,
+      "Mod": "AFKPETS.AFKPets"
+    },
+    {
+      "Name": "Furret",
+      "Price": 24398.0,
+      "ID": 628,
+      "Mod": "AFKPETS.AFKPets"
+    },
+    {
+      "Name": "Furret",
+      "Price": 24398.0,
+      "ID": 629,
+      "Mod": "AFKPETS.AFKPets"
+    },
+    {
+      "Name": "CursedAxe",
+      "Price": 1910.0,
+      "ID": 630,
+      "Mod": "AFKPETS.AFKPets"
+    },
+    {
+      "Name": "HeroicSlime",
+      "Price": 2816.0,
+      "ID": 631,
+      "Mod": "AFKPETS.AFKPets"
+    },
+    {
+      "Name": "HolographicSlime",
+      "Price": 3316.0,
+      "ID": 632,
+      "Mod": "AFKPETS.AFKPets"
+    },
+    {
+      "Name": "FallingSnowflake",
+      "Price": 221.0,
+      "ID": 633,
+      "Mod": "AFKPETS.AFKPets"
+    },
+    {
+      "Name": "GuardianofFrost",
+      "Price": 15336.0,
+      "ID": 634,
+      "Mod": "AFKPETS.AFKPets"
+    },
+    {
+      "Name": "GuardianofFrost",
+      "Price": 15336.0,
+      "ID": 635,
+      "Mod": "AFKPETS.AFKPets"
+    },
+    {
+      "Name": "GuardianofFrost",
+      "Price": 15336.0,
+      "ID": 636,
+      "Mod": "AFKPETS.AFKPets"
+    },
+    {
+      "Name": "Air",
+      "Price": 1.0,
+      "ID": 637,
+      "Mod": "AFKPETS.AFKPets"
+    },
+    {
+      "Name": "IceWorm",
+      "Price": 4440.0,
+      "ID": 638,
+      "Mod": "AFKPETS.AFKPets"
+    },
+    {
+      "Name": "IceWorm",
+      "Price": 4440.0,
+      "ID": 639,
+      "Mod": "AFKPETS.AFKPets"
+    },
+    {
+      "Name": "IceWorm",
+      "Price": 4440.0,
+      "ID": 640,
+      "Mod": "AFKPETS.AFKPets"
+    },
+    {
+      "Name": "AngelicBaby",
+      "Price": 326.0,
+      "ID": 641,
+      "Mod": "AFKPETS.AFKPets"
+    },
+    {
+      "Name": "Isaac",
+      "Price": 2320.0,
+      "ID": 642,
+      "Mod": "AFKPETS.AFKPets"
+    },
+    {
+      "Name": "???",
+      "Price": 1.0,
+      "ID": 643,
+      "Mod": "AFKPETS.AFKPets"
+    },
+    {
+      "Name": "Destroyer'sShadow",
+      "Price": 4440.0,
+      "ID": 644,
+      "Mod": "AFKPETS.AFKPets"
+    },
+    {
+      "Name": "Destroyer'sShadow",
+      "Price": 4440.0,
+      "ID": 645,
+      "Mod": "AFKPETS.AFKPets"
+    },
+    {
+      "Name": "Destroyer'sShadow",
+      "Price": 4440.0,
+      "ID": 646,
+      "Mod": "AFKPETS.AFKPets"
+    },
+    {
+      "Name": "AncientObserver",
+      "Price": 415.0,
+      "ID": 647,
+      "Mod": "AFKPETS.AFKPets"
+    },
+    {
+      "Name": "AncientObserver",
+      "Price": 415.0,
+      "ID": 648,
+      "Mod": "AFKPETS.AFKPets"
+    },
+    {
+      "Name": "Immolator",
+      "Price": 4450.0,
+      "ID": 649,
+      "Mod": "AFKPETS.AFKPets"
+    },
+    {
+      "Name": "Immolator",
+      "Price": 4450.0,
+      "ID": 650,
+      "Mod": "AFKPETS.AFKPets"
+    },
+    {
+      "Name": "Immolator",
+      "Price": 4450.0,
+      "ID": 651,
+      "Mod": "AFKPETS.AFKPets"
+    },
+    {
+      "Name": "SoulofAgony",
+      "Price": 190.0,
+      "ID": 652,
+      "Mod": "AFKPETS.AFKPets"
+    },
+    {
+      "Name": "LavalGolem",
+      "Price": 40448.0,
+      "ID": 653,
+      "Mod": "AFKPETS.AFKPets"
+    },
+    {
+      "Name": "TinyMechanicalSlime",
+      "Price": 350.0,
+      "ID": 654,
+      "Mod": "AFKPETS.AFKPets"
+    },
+    {
+      "Name": "AquaticWiseman",
+      "Price": 660.0,
+      "ID": 655,
+      "Mod": "AFKPETS.AFKPets"
+    },
+    {
+      "Name": "LostGhost",
+      "Price": 660.0,
+      "ID": 656,
+      "Mod": "AFKPETS.AFKPets"
+    },
+    {
+      "Name": "Hunter",
+      "Price": 660.0,
+      "ID": 657,
+      "Mod": "AFKPETS.AFKPets"
+    },
+    {
+      "Name": "MiniRetinazer",
+      "Price": 3040.0,
+      "ID": 658,
+      "Mod": "AFKPETS.AFKPets"
+    },
+    {
+      "Name": "MiniSpazmatism",
+      "Price": 3140.0,
+      "ID": 659,
+      "Mod": "AFKPETS.AFKPets"
+    },
+    {
+      "Name": "BrainControlledWarrior",
+      "Price": 1340.0,
+      "ID": 660,
+      "Mod": "AFKPETS.AFKPets"
+    },
+    {
+      "Name": "GalacticRift",
+      "Price": 69696969.0,
+      "ID": 661,
+      "Mod": "AFKPETS.AFKPets"
+    },
+    {
+      "Name": "TrainingDummy",
+      "Price": 99999999.0,
+      "ID": 662,
+      "Mod": "AFKPETS.AFKPets"
+    },
+    {
+      "Name": "RoyalGuard",
+      "Price": 380.0,
+      "ID": 663,
+      "Mod": "AFKPETS.AFKPets"
+    },
+    {
+      "Name": "BoundDarkHuntress",
+      "Price": 160.0,
+      "ID": 664,
+      "Mod": "AFKPETS.AFKPets"
+    },
+    {
+      "Name": "NiceProbe",
+      "Price": 740.0,
+      "ID": 665,
+      "Mod": "AFKPETS.AFKPets"
+    },
+    {
+      "Name": "NekoSlime",
+      "Price": 15332.0,
+      "ID": 666,
+      "Mod": "AFKPETS.AFKPets"
+    },
+    {
+      "Name": "NekoSlime",
+      "Price": 15332.0,
+      "ID": 667,
+      "Mod": "AFKPETS.AFKPets"
+    },
+    {
+      "Name": "NightmareAmplifierSlime",
+      "Price": 15350.0,
+      "ID": 668,
+      "Mod": "AFKPETS.AFKPets"
+    },
+    {
+      "Name": "NightmareAmplifierSlime",
+      "Price": 15350.0,
+      "ID": 669,
+      "Mod": "AFKPETS.AFKPets"
+    },
+    {
+      "Name": "NightmarePortal",
+      "Price": 766.0,
+      "ID": 670,
+      "Mod": "AFKPETS.AFKPets"
+    },
+    {
+      "Name": "ShadowHand",
+      "Price": 766.0,
+      "ID": 671,
+      "Mod": "AFKPETS.AFKPets"
+    },
+    {
+      "Name": "BoilingBlood",
+      "Price": 92.0,
+      "ID": 672,
+      "Mod": "AFKPETS.AFKPets"
+    },
+    {
+      "Name": "Okiku",
+      "Price": 1720.0,
+      "ID": 673,
+      "Mod": "AFKPETS.AFKPets"
+    },
+    {
+      "Name": "Okiku",
+      "Price": 1720.0,
+      "ID": 674,
+      "Mod": "AFKPETS.AFKPets"
+    },
+    {
+      "Name": "Okiku'sSoul",
+      "Price": 1000219.0,
+      "ID": 675,
+      "Mod": "AFKPETS.AFKPets"
+    },
+    {
+      "Name": "Okiku",
+      "Price": 1720.0,
+      "ID": 676,
+      "Mod": "AFKPETS.AFKPets"
+    },
+    {
+      "Name": "SlimeBodyguard",
+      "Price": 5640.0,
+      "ID": 677,
+      "Mod": "AFKPETS.AFKPets"
+    },
+    {
+      "Name": "SlimeSoldier",
+      "Price": 300.0,
+      "ID": 678,
+      "Mod": "AFKPETS.AFKPets"
+    },
+    {
+      "Name": "CoinPortal",
+      "Price": 490.0,
+      "ID": 679,
+      "Mod": "AFKPETS.AFKPets"
+    },
+    {
+      "Name": "PoliticianSlime",
+      "Price": 7440.0,
+      "ID": 680,
+      "Mod": "AFKPETS.AFKPets"
+    },
+    {
+      "Name": "SlimeSoldier",
+      "Price": 300.0,
+      "ID": 681,
+      "Mod": "AFKPETS.AFKPets"
+    },
+    {
+      "Name": "SlimeSoldier",
+      "Price": 300.0,
+      "ID": 682,
+      "Mod": "AFKPETS.AFKPets"
+    },
+    {
+      "Name": "EnergyCore",
+      "Price": 2340.0,
+      "ID": 683,
+      "Mod": "AFKPETS.AFKPets"
+    },
+    {
+      "Name": "MechanicalDragonHead",
+      "Price": 1940.0,
+      "ID": 684,
+      "Mod": "AFKPETS.AFKPets"
+    },
+    {
+      "Name": "GuardianoftheSlimeNation",
+      "Price": 6350.0,
+      "ID": 685,
+      "Mod": "AFKPETS.AFKPets"
+    },
+    {
+      "Name": "RollingSlimeBall",
+      "Price": 170.0,
+      "ID": 686,
+      "Mod": "AFKPETS.AFKPets"
+    },
+    {
+      "Name": "StormDiver",
+      "Price": 1962.0,
+      "ID": 687,
+      "Mod": "AFKPETS.AFKPets"
+    },
+    {
+      "Name": "StormDiver",
+      "Price": 1962.0,
+      "ID": 688,
+      "Mod": "AFKPETS.AFKPets"
+    },
+    {
+      "Name": "RoyalPeaceBringer",
+      "Price": 1920.0,
+      "ID": 689,
+      "Mod": "AFKPETS.AFKPets"
+    },
+    {
+      "Name": "SandShark",
+      "Price": 560.0,
+      "ID": 690,
+      "Mod": "AFKPETS.AFKPets"
+    },
+    {
+      "Name": "SandShark",
+      "Price": 560.0,
+      "ID": 691,
+      "Mod": "AFKPETS.AFKPets"
+    },
+    {
+      "Name": "SATLA-001",
+      "Price": 3024.0,
+      "ID": 692,
+      "Mod": "AFKPETS.AFKPets"
+    },
+    {
+      "Name": "FunInfusedSATLA-001",
+      "Price": 3350.0,
+      "ID": 693,
+      "Mod": "AFKPETS.AFKPets"
+    },
+    {
+      "Name": "SATLA-001",
+      "Price": 3024.0,
+      "ID": 694,
+      "Mod": "AFKPETS.AFKPets"
+    },
+    {
+      "Name": "BloodDrone",
+      "Price": 508.0,
+      "ID": 695,
+      "Mod": "AFKPETS.AFKPets"
+    },
+    {
+      "Name": "SecurityBot",
+      "Price": 2970.0,
+      "ID": 696,
+      "Mod": "AFKPETS.AFKPets"
+    },
+    {
+      "Name": "SecurityBot",
+      "Price": 2970.0,
+      "ID": 697,
+      "Mod": "AFKPETS.AFKPets"
+    },
+    {
+      "Name": "SlayerofEvil",
+      "Price": 1728.0,
+      "ID": 698,
+      "Mod": "AFKPETS.AFKPets"
+    },
+    {
+      "Name": "SlimeGrenadier",
+      "Price": 270.0,
+      "ID": 699,
+      "Mod": "AFKPETS.AFKPets"
+    },
+    {
+      "Name": "BloodSlime",
+      "Price": 340.0,
+      "ID": 700,
+      "Mod": "AFKPETS.AFKPets"
+    },
+    {
+      "Name": "HoneySlime",
+      "Price": 342.0,
+      "ID": 701,
+      "Mod": "AFKPETS.AFKPets"
+    },
+    {
+      "Name": "OversizedPinky",
+      "Price": 382.0,
+      "ID": 702,
+      "Mod": "AFKPETS.AFKPets"
+    },
+    {
+      "Name": "RollingOversizedPinkie",
+      "Price": 382.0,
+      "ID": 703,
+      "Mod": "AFKPETS.AFKPets"
+    },
+    {
+      "Name": "Gooronk",
+      "Price": 400.0,
+      "ID": 704,
+      "Mod": "AFKPETS.AFKPets"
+    },
+    {
+      "Name": "OverloadedSlime",
+      "Price": 302.0,
+      "ID": 705,
+      "Mod": "AFKPETS.AFKPets"
+    },
+    {
+      "Name": "TinyBloodSlime",
+      "Price": 260.0,
+      "ID": 706,
+      "Mod": "AFKPETS.AFKPets"
+    },
+    {
+      "Name": "MountainSlime",
+      "Price": 392.0,
+      "ID": 707,
+      "Mod": "AFKPETS.AFKPets"
+    },
+    {
+      "Name": "BubbleSlime",
+      "Price": 520.0,
+      "ID": 708,
+      "Mod": "AFKPETS.AFKPets"
+    },
+    {
+      "Name": "BubbleSlime",
+      "Price": 520.0,
+      "ID": 709,
+      "Mod": "AFKPETS.AFKPets"
+    },
+    {
+      "Name": "HiveCarrier",
+      "Price": 520.0,
+      "ID": 710,
+      "Mod": "AFKPETS.AFKPets"
+    },
+    {
+      "Name": "SaucerSlime",
+      "Price": 532.0,
+      "ID": 711,
+      "Mod": "AFKPETS.AFKPets"
+    },
+    {
+      "Name": "PinkyTank",
+      "Price": 580.0,
+      "ID": 712,
+      "Mod": "AFKPETS.AFKPets"
+    },
+    {
+      "Name": "DarkSlime",
+      "Price": 920.0,
+      "ID": 713,
+      "Mod": "AFKPETS.AFKPets"
+    },
+    {
+      "Name": "ShadowSlime",
+      "Price": 370.0,
+      "ID": 714,
+      "Mod": "AFKPETS.AFKPets"
+    },
+    {
+      "Name": "FriendlyNPC",
+      "Price": 260.0,
+      "ID": 715,
+      "Mod": "AFKPETS.AFKPets"
+    },
+    {
+      "Name": "SuspiciousSlime",
+      "Price": 840.0,
+      "ID": 716,
+      "Mod": "AFKPETS.AFKPets"
+    },
+    {
+      "Name": "SlimeWitch",
+      "Price": 730.0,
+      "ID": 717,
+      "Mod": "AFKPETS.AFKPets"
+    },
+    {
+      "Name": "GuardianSlime",
+      "Price": 1150.0,
+      "ID": 718,
+      "Mod": "AFKPETS.AFKPets"
+    },
+    {
+      "Name": "IronMaiden",
+      "Price": 3270.0,
+      "ID": 719,
+      "Mod": "AFKPETS.AFKPets"
+    },
+    {
+      "Name": "IronMaidenSlime'sRemains",
+      "Price": 5.0,
+      "ID": 720,
+      "Mod": "AFKPETS.AFKPets"
+    },
+    {
+      "Name": "ShogunSlime",
+      "Price": 2262.0,
+      "ID": 721,
+      "Mod": "AFKPETS.AFKPets"
+    },
+    {
+      "Name": "ShogunSlime",
+      "Price": 2262.0,
+      "ID": 722,
+      "Mod": "AFKPETS.AFKPets"
+    },
+    {
+      "Name": "ShogunSlime",
+      "Price": 2262.0,
+      "ID": 723,
+      "Mod": "AFKPETS.AFKPets"
+    },
+    {
+      "Name": "ShogunSlime'sSoul",
+      "Price": 1.0,
+      "ID": 724,
+      "Mod": "AFKPETS.AFKPets"
+    },
+    {
+      "Name": "SlimyWatcher",
+      "Price": 121.0,
+      "ID": 725,
+      "Mod": "AFKPETS.AFKPets"
+    },
+    {
+      "Name": "SerenitySlime",
+      "Price": 1712.0,
+      "ID": 726,
+      "Mod": "AFKPETS.AFKPets"
+    },
+    {
+      "Name": "SerenitySlime'sSoul",
+      "Price": 1.0,
+      "ID": 727,
+      "Mod": "AFKPETS.AFKPets"
+    },
+    {
+      "Name": "DemocraticallyElectedQueenBee",
+      "Price": 516.0,
+      "ID": 728,
+      "Mod": "AFKPETS.AFKPets"
+    },
+    {
+      "Name": "SmallRetinazer",
+      "Price": 15520.0,
+      "ID": 729,
+      "Mod": "AFKPETS.AFKPets"
+    },
+    {
+      "Name": "SmallSpazmatism",
+      "Price": 15620.0,
+      "ID": 730,
+      "Mod": "AFKPETS.AFKPets"
+    },
+    {
+      "Name": "CelestialWisp",
+      "Price": 15440.0,
+      "ID": 731,
+      "Mod": "AFKPETS.AFKPets"
+    },
+    {
+      "Name": "CelestialWisp",
+      "Price": 15440.0,
+      "ID": 732,
+      "Mod": "AFKPETS.AFKPets"
+    },
+    {
+      "Name": "CelestialWisp",
+      "Price": 15440.0,
+      "ID": 733,
+      "Mod": "AFKPETS.AFKPets"
+    },
+    {
+      "Name": "CelestialWisp",
+      "Price": 15440.0,
+      "ID": 734,
+      "Mod": "AFKPETS.AFKPets"
+    },
+    {
+      "Name": "KnightofFun",
+      "Price": 1000419.0,
+      "ID": 735,
+      "Mod": "AFKPETS.AFKPets"
+    },
+    {
+      "Name": "SpiritofFun",
+      "Price": 40360.0,
+      "ID": 736,
+      "Mod": "AFKPETS.AFKPets"
+    },
+    {
+      "Name": "SpiritofFun",
+      "Price": 40360.0,
+      "ID": 737,
+      "Mod": "AFKPETS.AFKPets"
+    },
+    {
+      "Name": "SpiritofFun",
+      "Price": 40360.0,
+      "ID": 738,
+      "Mod": "AFKPETS.AFKPets"
+    },
+    {
+      "Name": "SpiritofFun",
+      "Price": 40360.0,
+      "ID": 739,
+      "Mod": "AFKPETS.AFKPets"
+    },
+    {
+      "Name": "Thomas",
+      "Price": 24498.0,
+      "ID": 740,
+      "Mod": "AFKPETS.AFKPets"
+    },
+    {
+      "Name": "Thomas",
+      "Price": 24498.0,
+      "ID": 741,
+      "Mod": "AFKPETS.AFKPets"
+    },
+    {
+      "Name": "Thomas",
+      "Price": 24498.0,
+      "ID": 742,
+      "Mod": "AFKPETS.AFKPets"
+    },
+    {
+      "Name": "Tumbleweed",
+      "Price": 1040.0,
+      "ID": 743,
+      "Mod": "AFKPETS.AFKPets"
+    },
+    {
+      "Name": "Tumbleweed",
+      "Price": 1040.0,
+      "ID": 744,
+      "Mod": "AFKPETS.AFKPets"
+    },
+    {
+      "Name": "AncientGuardian",
+      "Price": 4212.0,
+      "ID": 745,
+      "Mod": "AFKPETS.AFKPets"
+    },
+    {
+      "Name": "???",
+      "Price": 1.0,
+      "ID": 746,
+      "Mod": "AFKPETS.AFKPets"
+    },
+    {
+      "Name": "TinyGuardian,theHolyAvenger",
+      "Price": 283.0,
+      "ID": 747,
+      "Mod": "AFKPETS.AFKPets"
+    },
+    {
+      "Name": "TinyGuardian",
+      "Price": 283.0,
+      "ID": 748,
+      "Mod": "AFKPETS.AFKPets"
+    },
+    {
+      "Name": "TinyGuardian",
+      "Price": 283.0,
+      "ID": 749,
+      "Mod": "AFKPETS.AFKPets"
+    },
+    {
+      "Name": "TinyGuardian",
+      "Price": 283.0,
+      "ID": 750,
+      "Mod": "AFKPETS.AFKPets"
+    },
+    {
+      "Name": "TinyGuardian",
+      "Price": 283.0,
+      "ID": 751,
+      "Mod": "AFKPETS.AFKPets"
+    },
+    {
+      "Name": "TinyGuardian",
+      "Price": 283.0,
+      "ID": 752,
+      "Mod": "AFKPETS.AFKPets"
+    },
+    {
+      "Name": "BigGameHunter",
+      "Price": 380.0,
+      "ID": 753,
+      "Mod": "AFKPETS.AFKPets"
+    },
+    {
+      "Name": "FallenAngel",
+      "Price": 380.0,
+      "ID": 754,
+      "Mod": "AFKPETS.AFKPets"
+    },
+    {
+      "Name": "GuideoftheEnd",
+      "Price": 380.0,
+      "ID": 755,
+      "Mod": "AFKPETS.AFKPets"
+    },
+    {
+      "Name": "DarkHuntress",
+      "Price": 380.0,
+      "ID": 756,
+      "Mod": "AFKPETS.AFKPets"
+    },
+    {
+      "Name": "BountyHunter",
+      "Price": 880.0,
+      "ID": 757,
+      "Mod": "AFKPETS.AFKPets"
+    },
+    {
+      "Name": "Designer",
+      "Price": 380.0,
+      "ID": 758,
+      "Mod": "AFKPETS.AFKPets"
+    },
+    {
+      "Name": "Artist",
+      "Price": 380.0,
+      "ID": 759,
+      "Mod": "AFKPETS.AFKPets"
+    },
+    {
+      "Name": "WanderingSamurai",
+      "Price": 380.0,
+      "ID": 760,
+      "Mod": "AFKPETS.AFKPets"
+    },
+    {
+      "Name": "TrueAncientVision",
+      "Price": 796.0,
+      "ID": 761,
+      "Mod": "AFKPETS.AFKPets"
+    },
+    {
+      "Name": "Chef'sSpiritualEnergy",
+      "Price": 4820.0,
+      "ID": 762,
+      "Mod": "AFKPETS.AFKPets"
+    },
+    {
+      "Name": "UndeadChef",
+      "Price": 4820.0,
+      "ID": 763,
+      "Mod": "AFKPETS.AFKPets"
+    },
+    {
+      "Name": "Bloatfish",
+      "Price": 9250.0,
+      "ID": 764,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "BobbitWorm",
+      "Price": 9100.0,
+      "ID": 765,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "BobbitWorm",
+      "Price": 9100.0,
+      "ID": 766,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "BoxJellyfish",
+      "Price": 540.0,
+      "ID": 767,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "ChaoticPuffer",
+      "Price": 5725.0,
+      "ID": 768,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "ColossalSquid",
+      "Price": 221600.0,
+      "ID": 769,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "Cuttlefish",
+      "Price": 466.0,
+      "ID": 770,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "DevilFish",
+      "Price": 2001298.0,
+      "ID": 771,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "DevilFish",
+      "Price": 2001298.0,
+      "ID": 772,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "EidolonWyrm",
+      "Price": 161000.0,
+      "ID": 773,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "EidolonWyrm",
+      "Price": 161000.0,
+      "ID": 774,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "EidolonWyrm",
+      "Price": 161000.0,
+      "ID": 775,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "EidolonWyrm",
+      "Price": 161000.0,
+      "ID": 776,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "EidolonWyrm",
+      "Price": 161000.0,
+      "ID": 777,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "EidolonWyrm",
+      "Price": 161000.0,
+      "ID": 778,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "EidolonWyrm",
+      "Price": 161000.0,
+      "ID": 779,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "EidolonWyrm",
+      "Price": 161000.0,
+      "ID": 780,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "GiantSquid",
+      "Price": 1836.0,
+      "ID": 781,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "GulperEel",
+      "Price": 60960.0,
+      "ID": 782,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "GulperEel",
+      "Price": 60960.0,
+      "ID": 783,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "GulperEel",
+      "Price": 60960.0,
+      "ID": 784,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "GulperEel",
+      "Price": 60960.0,
+      "ID": 785,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "Laserfish",
+      "Price": 910.0,
+      "ID": 786,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "LuminousCorvina",
+      "Price": 924.0,
+      "ID": 787,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "MirageJelly",
+      "Price": 7020.0,
+      "ID": 788,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "MorayEel",
+      "Price": 926.0,
+      "ID": 789,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "Oarfish",
+      "Price": 4340.0,
+      "ID": 790,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "Oarfish",
+      "Price": 4340.0,
+      "ID": 791,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "Oarfish",
+      "Price": 4340.0,
+      "ID": 792,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "ReaperShark",
+      "Price": 191740.0,
+      "ID": 793,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "ToxicMinnow",
+      "Price": 480.0,
+      "ID": 794,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "Viperfish",
+      "Price": 1090.0,
+      "ID": 795,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "AcidEel",
+      "Price": 288.0,
+      "ID": 796,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "Bloodworm",
+      "Price": 5.0,
+      "ID": 797,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "Bloodworm",
+      "Price": 5.0,
+      "ID": 798,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "CragmawMire",
+      "Price": 4710.0,
+      "ID": 799,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "BabyFlakCrab",
+      "Price": 15.0,
+      "ID": 800,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "FlakCrab",
+      "Price": 400.0,
+      "ID": 801,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "GammaSlime",
+      "Price": 6210.0,
+      "ID": 802,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "IrradiatedSlime",
+      "Price": 650.0,
+      "ID": 803,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "NuclearTerror",
+      "Price": 198330.0,
+      "ID": 804,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "NuclearToad",
+      "Price": 216.0,
+      "ID": 805,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "Orthocera",
+      "Price": 760.0,
+      "ID": 806,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "Radiator",
+      "Price": 160.0,
+      "ID": 807,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "Skyfin",
+      "Price": 202.0,
+      "ID": 808,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "SulphurousSkater",
+      "Price": 766.0,
+      "ID": 809,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "Trilobite",
+      "Price": 780.0,
+      "ID": 810,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "WaterLeech",
+      "Price": 30.0,
+      "ID": 811,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "AquaticParasite",
+      "Price": 190.0,
+      "ID": 812,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "AquaticScourge",
+      "Price": 800690.0,
+      "ID": 813,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "AquaticScourge",
+      "Price": 800690.0,
+      "ID": 814,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "AquaticScourge",
+      "Price": 800690.0,
+      "ID": 815,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "AquaticScourge",
+      "Price": 800690.0,
+      "ID": 816,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "AquaticSeeker",
+      "Price": 230.0,
+      "ID": 817,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "AquaticSeeker",
+      "Price": 230.0,
+      "ID": 818,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "AquaticSeeker",
+      "Price": 230.0,
+      "ID": 819,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "AquaticUrchin",
+      "Price": 320.0,
+      "ID": 820,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "Aries",
+      "Price": 828.0,
+      "ID": 821,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "Astralachnea",
+      "Price": 1090.0,
+      "ID": 822,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "Astralachnea",
+      "Price": 1090.0,
+      "ID": 823,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "AstralProbe",
+      "Price": 270.0,
+      "ID": 824,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "SeekerSpit",
+      "Price": 451.0,
+      "ID": 825,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "AstralSlime",
+      "Price": 616.0,
+      "ID": 826,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "Atlas",
+      "Price": 1980.0,
+      "ID": 827,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "BigSightseer",
+      "Price": 970.0,
+      "ID": 828,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "EnchantedNightcrawler",
+      "Price": 5.0,
+      "ID": 829,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "FusionFeeder",
+      "Price": 874.0,
+      "ID": 830,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "Hadarian",
+      "Price": 846.0,
+      "ID": 831,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "Hive",
+      "Price": 1050.0,
+      "ID": 832,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "Hiveling",
+      "Price": 450.0,
+      "ID": 833,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "Mantis",
+      "Price": 902.0,
+      "ID": 834,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "Nova",
+      "Price": 710.0,
+      "ID": 835,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "SmallSightseer",
+      "Price": 722.0,
+      "ID": 836,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "StellarCulex",
+      "Price": 796.0,
+      "ID": 837,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "Twinkler",
+      "Price": 5.0,
+      "ID": 838,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "AstrumAureus",
+      "Price": 840880.0,
+      "ID": 839,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "AureusSpawn",
+      "Price": 3670.0,
+      "ID": 840,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "AstrumDeus",
+      "Price": 2001100.0,
+      "ID": 841,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "AstrumDeus",
+      "Price": 2001100.0,
+      "ID": 842,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "AstrumDeus",
+      "Price": 2001100.0,
+      "ID": 843,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "Brimling",
+      "Price": 2000.0,
+      "ID": 844,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "BrimstoneElemental",
+      "Price": 300630.0,
+      "ID": 845,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "TheDragonfolly",
+      "Price": 1707930.0,
+      "ID": 846,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "DraconicSwarmer",
+      "Price": 10140.0,
+      "ID": 847,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "Cataclysm",
+      "Price": 90620.0,
+      "ID": 848,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "Catastrophe",
+      "Price": 75670.0,
+      "ID": 849,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "Calamitas",
+      "Price": 375750.0,
+      "ID": 850,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "LifeSeeker",
+      "Price": 516.0,
+      "ID": 851,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "SoulSeeker",
+      "Price": 2920.0,
+      "ID": 852,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "CeaselessVoid",
+      "Price": 673660.0,
+      "ID": 853,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "DarkEnergy",
+      "Price": 121300.0,
+      "ID": 854,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "CrabShroom",
+      "Price": 275.0,
+      "ID": 855,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "Crabulon",
+      "Price": 30416.0,
+      "ID": 856,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "CalamityEye",
+      "Price": 564.0,
+      "ID": 857,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "CharredSlime",
+      "Price": 670.0,
+      "ID": 858,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "CultistAssassin",
+      "Price": 612.0,
+      "ID": 859,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "DespairStone",
+      "Price": 596.0,
+      "ID": 860,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "HeatSpirit",
+      "Price": 396.0,
+      "ID": 861,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "Scryllar",
+      "Price": 626.0,
+      "ID": 862,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "Scryllar",
+      "Price": 626.0,
+      "ID": 863,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "SoulSlurper",
+      "Price": 420.0,
+      "ID": 864,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "Cryocore",
+      "Price": 582.0,
+      "ID": 865,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "Cryocore",
+      "Price": 582.0,
+      "ID": 866,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "Cryogen",
+      "Price": 188474.0,
+      "ID": 867,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "Cryogen'sShield",
+      "Price": 1900.0,
+      "ID": 868,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "AuroraSpirit",
+      "Price": 636.0,
+      "ID": 869,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "ADesertNuisance",
+      "Price": 948.0,
+      "ID": 870,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "ADesertNuisance",
+      "Price": 948.0,
+      "ID": 871,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "ADesertNuisance",
+      "Price": 948.0,
+      "ID": 872,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "DesertScourge",
+      "Price": 26172.0,
+      "ID": 873,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "DesertScourge",
+      "Price": 26172.0,
+      "ID": 874,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "DesertScourge",
+      "Price": 26172.0,
+      "ID": 875,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "DriedSeeker",
+      "Price": 184.0,
+      "ID": 876,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "DriedSeeker",
+      "Price": 184.0,
+      "ID": 877,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "DriedSeeker",
+      "Price": 184.0,
+      "ID": 878,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "TheDevourerofGods",
+      "Price": 8889840.0,
+      "ID": 879,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "CosmicGuardian",
+      "Price": 51420.0,
+      "ID": 880,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "TheDevourerofGods",
+      "Price": 8889840.0,
+      "ID": 881,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "CosmicGuardian",
+      "Price": 51420.0,
+      "ID": 882,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "TheDevourerofGods",
+      "Price": 8889840.0,
+      "ID": 883,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "CosmicGuardian",
+      "Price": 51420.0,
+      "ID": 884,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "RepairUnit",
+      "Price": 80.0,
+      "ID": 885,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "XS-03Apollo",
+      "Price": 13003660.0,
+      "ID": 886,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "XF-09Ares",
+      "Price": 13001200.0,
+      "ID": 887,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "XF-09AresGaussNuke",
+      "Price": 13001160.0,
+      "ID": 888,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "XF-09AresLaserCannon",
+      "Price": 13001160.0,
+      "ID": 889,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "XF-09AresPlasmaCannon",
+      "Price": 13001160.0,
+      "ID": 890,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "XF-09AresTeslaCannon",
+      "Price": 13001160.0,
+      "ID": 891,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "XS-01Artemis",
+      "Price": 13003460.0,
+      "ID": 892,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "Draedon",
+      "Price": 16200.0,
+      "ID": 893,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "XM-05Thanatos",
+      "Price": 10003500.0,
+      "ID": 894,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "XM-05Thanatos",
+      "Price": 10003500.0,
+      "ID": 895,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "XM-05Thanatos",
+      "Price": 10003500.0,
+      "ID": 896,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "XM-05Thanatos",
+      "Price": 10003500.0,
+      "ID": 897,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "GreatSandShark",
+      "Price": 9080.0,
+      "ID": 898,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "DankCreeper",
+      "Price": 352.0,
+      "ID": 899,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "DarkHeart",
+      "Price": 154.0,
+      "ID": 900,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "HiveBlob",
+      "Price": 100.0,
+      "ID": 901,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "HiveBlob",
+      "Price": 100.0,
+      "ID": 902,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "HiveCyst",
+      "Price": 1000.0,
+      "ID": 903,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "TheHiveMind",
+      "Price": 70366.0,
+      "ID": 904,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "AquaticAberration",
+      "Price": 2178.0,
+      "ID": 905,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "TheLeviathan",
+      "Price": 552980.0,
+      "ID": 906,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "???",
+      "Price": 1000.0,
+      "ID": 907,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "Parasea",
+      "Price": 1166.0,
+      "ID": 908,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "Anahita",
+      "Price": 274740.0,
+      "ID": 909,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "IceShield",
+      "Price": 1220.0,
+      "ID": 910,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "AeroSlime",
+      "Price": 242.0,
+      "ID": 911,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "AngryDog",
+      "Price": 158.0,
+      "ID": 912,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "ArmoredDigger",
+      "Price": 20760.0,
+      "ID": 913,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "ArmoredDigger",
+      "Price": 20760.0,
+      "ID": 914,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "ArmoredDigger",
+      "Price": 20760.0,
+      "ID": 915,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "BlightedEye",
+      "Price": 456.0,
+      "ID": 916,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "BloomSlime",
+      "Price": 1850.0,
+      "ID": 917,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "Bohldohr",
+      "Price": 1136.0,
+      "ID": 918,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "Cnidrion",
+      "Price": 612.0,
+      "ID": 919,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "CosmicElemental",
+      "Price": 245.0,
+      "ID": 920,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "AmberCrawler",
+      "Price": 360.0,
+      "ID": 921,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "AmethystCrawler",
+      "Price": 218.0,
+      "ID": 922,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "CrystalCrawler",
+      "Price": 674.0,
+      "ID": 923,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "DiamondCrawler",
+      "Price": 406.0,
+      "ID": 924,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "EmeraldCrawler",
+      "Price": 317.0,
+      "ID": 925,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "RubyCrawler",
+      "Price": 381.0,
+      "ID": 926,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "SapphireCrawler",
+      "Price": 282.0,
+      "ID": 927,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "TopazCrawler",
+      "Price": 173.0,
+      "ID": 928,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "CrimulanBlightSlime",
+      "Price": 446.0,
+      "ID": 929,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "Cryon",
+      "Price": 740.0,
+      "ID": 930,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "CryoSlime",
+      "Price": 436.0,
+      "ID": 931,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "EbonianBlightSlime",
+      "Price": 446.0,
+      "ID": 932,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "Eidolist",
+      "Price": 10000.0,
+      "ID": 933,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "FearlessGoldfishWarrior",
+      "Price": 354.0,
+      "ID": 934,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "Frogfish",
+      "Price": 350.0,
+      "ID": 935,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "EarthElemental",
+      "Price": 4340.0,
+      "ID": 936,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "IceClasper",
+      "Price": 944.0,
+      "ID": 937,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "ImpiousImmolator",
+      "Price": 8310.0,
+      "ID": 938,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "CrownJewel",
+      "Price": 999.0,
+      "ID": 939,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "MantisShrimp",
+      "Price": 2050.0,
+      "ID": 940,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "OverloadedSoldier",
+      "Price": 591.0,
+      "ID": 941,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "PerennialSlime",
+      "Price": 524.0,
+      "ID": 942,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "PhantomDebris",
+      "Price": 460.0,
+      "ID": 943,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "PhantomSpirit",
+      "Price": 1720.0,
+      "ID": 944,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "PhantomSpirit",
+      "Price": 1720.0,
+      "ID": 945,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "PhantomSpirit",
+      "Price": 1720.0,
+      "ID": 946,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "PhantomSpirit",
+      "Price": 1720.0,
+      "ID": 947,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "Piggy",
+      "Price": 2000.0,
+      "ID": 948,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "Pitbull",
+      "Price": 248.0,
+      "ID": 949,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "ProfanedEnergy",
+      "Price": 6100.0,
+      "ID": 950,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "ProfanedEnergy",
+      "Price": 6100.0,
+      "ID": 951,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "SandTortoise",
+      "Price": 1340.0,
+      "ID": 952,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "ScornEater",
+      "Price": 12976.0,
+      "ID": 953,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "SeaUrchin",
+      "Price": 250.0,
+      "ID": 954,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "ShockstormShuttle",
+      "Price": 480.0,
+      "ID": 955,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "Stormlion",
+      "Price": 296.0,
+      "ID": 956,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "SunBat",
+      "Price": 570.0,
+      "ID": 957,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "Sunskater",
+      "Price": 308.0,
+      "ID": 958,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "SuperDummy",
+      "Price": 9999999.0,
+      "ID": 959,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "CloudElemental",
+      "Price": 6416.0,
+      "ID": 960,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "WulfrumDrone",
+      "Price": 189.0,
+      "ID": 961,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "WulfrumGyrator",
+      "Price": 178.0,
+      "ID": 962,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "WulfrumHovercraft",
+      "Price": 178.0,
+      "ID": 963,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "WulfrumPylon",
+      "Price": 100.0,
+      "ID": 964,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "WulfrumRover",
+      "Price": 140.0,
+      "ID": 965,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "WulfrumSlime",
+      "Price": 96.0,
+      "ID": 966,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "TheOldDuke",
+      "Price": 4126780.0,
+      "ID": 967,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "SulphurousSharkron",
+      "Price": 8000.0,
+      "ID": 968,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "ToothBall",
+      "Price": 5550.0,
+      "ID": 969,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "Demon",
+      "Price": 103710.0,
+      "ID": 970,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "MysteriousPortal",
+      "Price": 24660.0,
+      "ID": 971,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "ExhumedBrimstoneHeart",
+      "Price": 51740.0,
+      "ID": 972,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "LecherousOrb",
+      "Price": 181445.0,
+      "ID": 973,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "ThePerforator",
+      "Price": 25256.0,
+      "ID": 974,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "ThePerforator",
+      "Price": 25256.0,
+      "ID": 975,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "ThePerforator",
+      "Price": 25256.0,
+      "ID": 976,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "PerforatorCyst",
+      "Price": 1000.0,
+      "ID": 977,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "ThePerforator",
+      "Price": 25256.0,
+      "ID": 978,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "ThePerforator",
+      "Price": 25256.0,
+      "ID": 979,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "ThePerforator",
+      "Price": 25256.0,
+      "ID": 980,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "ThePerforatorHive",
+      "Price": 37808.0,
+      "ID": 981,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "ThePerforator",
+      "Price": 25256.0,
+      "ID": 982,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "ThePerforator",
+      "Price": 25256.0,
+      "ID": 983,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "ThePerforator",
+      "Price": 25256.0,
+      "ID": 984,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "PlagueCharger",
+      "Price": 930.0,
+      "ID": 985,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "PlagueCharger",
+      "Price": 930.0,
+      "ID": 986,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "ThePlaguebringerGoliath",
+      "Price": 811080.0,
+      "ID": 987,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "Plaguebringer",
+      "Price": 3748.0,
+      "ID": 988,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "PlagueHomingMissile",
+      "Price": 1220.0,
+      "ID": 989,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "PlagueMine",
+      "Price": 1320.0,
+      "ID": 990,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "PlagueCharger",
+      "Price": 930.0,
+      "ID": 991,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "PlagueCharger",
+      "Price": 930.0,
+      "ID": 992,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "Viruling",
+      "Price": 1036.0,
+      "ID": 993,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "Melter",
+      "Price": 1080.0,
+      "ID": 994,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "PestilentSlime",
+      "Price": 924.0,
+      "ID": 995,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "Plagueshell",
+      "Price": 1664.0,
+      "ID": 996,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "Phantom",
+      "Price": 1500.0,
+      "ID": 997,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "Polterghast",
+      "Price": 3501680.0,
+      "ID": 998,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "PolterghastHook",
+      "Price": 50000.0,
+      "ID": 999,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "Polterghast",
+      "Price": 3501680.0,
+      "ID": 1000,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "ProfanedGuardian",
+      "Price": 770230.0,
+      "ID": 1001,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "ProfanedGuardian",
+      "Price": 770230.0,
+      "ID": 1002,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "ProfanedGuardian",
+      "Price": 770230.0,
+      "ID": 1003,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "Providence,theProfanedGoddess",
+      "Price": 3301100.0,
+      "ID": 1004,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "AProfanedGuardian",
+      "Price": 188600.0,
+      "ID": 1005,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "AProfanedGuardian",
+      "Price": 188600.0,
+      "ID": 1006,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "AProfanedGuardian",
+      "Price": 188600.0,
+      "ID": 1007,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "FlamePillar",
+      "Price": 1100.0,
+      "ID": 1008,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "Ravager",
+      "Price": 428310.0,
+      "ID": 1009,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "Ravager",
+      "Price": 428310.0,
+      "ID": 1010,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "Ravager",
+      "Price": 428310.0,
+      "ID": 1011,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "Ravager",
+      "Price": 428310.0,
+      "ID": 1012,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "Ravager",
+      "Price": 428310.0,
+      "ID": 1013,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "Ravager",
+      "Price": 428310.0,
+      "ID": 1014,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "Ravager",
+      "Price": 428310.0,
+      "ID": 1015,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "RockPillar",
+      "Price": 6300.0,
+      "ID": 1016,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "CosmicLantern",
+      "Price": 1225.0,
+      "ID": 1017,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "Signus,EnvoyoftheDevourer",
+      "Price": 2241870.0,
+      "ID": 1018,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "CosmicMine",
+      "Price": 6200.0,
+      "ID": 1019,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "EbonianSlimeGod",
+      "Price": 46970.0,
+      "ID": 1020,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "TheSlimeGod",
+      "Price": 20412.0,
+      "ID": 1021,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "CrimulanSlimeGod",
+      "Price": 42024.0,
+      "ID": 1022,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "CrimulanSlimeGod",
+      "Price": 42024.0,
+      "ID": 1023,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "EbonianSlimeGod",
+      "Price": 46970.0,
+      "ID": 1024,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "CorruptSlimeSpawn",
+      "Price": 492.0,
+      "ID": 1025,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "CorruptSlimeSpawn",
+      "Price": 492.0,
+      "ID": 1026,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "CrimsonSlimeSpawn",
+      "Price": 468.0,
+      "ID": 1027,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "CrimsonSlimeSpawn",
+      "Price": 468.0,
+      "ID": 1028,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "StormWeaver",
+      "Price": 8256200.0,
+      "ID": 1029,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "StormWeaver",
+      "Price": 8256200.0,
+      "ID": 1030,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "StormWeaver",
+      "Price": 8256200.0,
+      "ID": 1031,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "AnthozoanCrab",
+      "Price": 1414.0,
+      "ID": 1032,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "BelchingCoral",
+      "Price": 1500.0,
+      "ID": 1033,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "Catfish",
+      "Price": 444.0,
+      "ID": 1034,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "Flounder",
+      "Price": 170.0,
+      "ID": 1035,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "Gnasher",
+      "Price": 345.0,
+      "ID": 1036,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "Mauler",
+      "Price": 166450.0,
+      "ID": 1037,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "MicrobialCluster",
+      "Price": 5.0,
+      "ID": 1038,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "Trasher",
+      "Price": 744.0,
+      "ID": 1039,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "BlindedAngler",
+      "Price": 2310.0,
+      "ID": 1040,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "Clam",
+      "Price": 20448.0,
+      "ID": 1041,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "EutrophicRay",
+      "Price": 360.0,
+      "ID": 1042,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "GhostBell",
+      "Price": 370.0,
+      "ID": 1043,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "BabyGhostBell",
+      "Price": 5.0,
+      "ID": 1044,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "GiantClam",
+      "Price": 21748.0,
+      "ID": 1045,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "Prism-Back",
+      "Price": 570.0,
+      "ID": 1046,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "SeaFloaty",
+      "Price": 100.0,
+      "ID": 1047,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "SeaMinnow",
+      "Price": 5.0,
+      "ID": 1048,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "SeaSerpent",
+      "Price": 3520.0,
+      "ID": 1049,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "SeaSerpent",
+      "Price": 3520.0,
+      "ID": 1050,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "SeaSerpent",
+      "Price": 3520.0,
+      "ID": 1051,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "SeaSerpent",
+      "Price": 3520.0,
+      "ID": 1052,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "SeaSerpent",
+      "Price": 3520.0,
+      "ID": 1053,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "BrimstoneHeart",
+      "Price": 25600.0,
+      "ID": 1054,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "Sepulcher",
+      "Price": 300000.0,
+      "ID": 1055,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "Sepulcher",
+      "Price": 300000.0,
+      "ID": 1056,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "BrimstoneHeart",
+      "Price": 25600.0,
+      "ID": 1057,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "Sepulcher",
+      "Price": 300000.0,
+      "ID": 1058,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "Sepulcher",
+      "Price": 300000.0,
+      "ID": 1059,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "SoulSeeker",
+      "Price": 2920.0,
+      "ID": 1060,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "SupremeCalamitas",
+      "Price": 10003700.0,
+      "ID": 1061,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "Cataclysm",
+      "Price": 90620.0,
+      "ID": 1062,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "Catastrophe",
+      "Price": 75670.0,
+      "ID": 1063,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "Archmage",
+      "Price": 20130.0,
+      "ID": 1064,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "DrunkPrincess",
+      "Price": 20130.0,
+      "ID": 1065,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "SeaKing",
+      "Price": 7650.0,
+      "ID": 1066,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "Bandit",
+      "Price": 380.0,
+      "ID": 1067,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "BrimstoneWitch",
+      "Price": 1000340.0,
+      "ID": 1068,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "DetonatingFlame",
+      "Price": 4040.0,
+      "ID": 1069,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "DetonatingFlame",
+      "Price": 4040.0,
+      "ID": 1070,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "JungleDragon,Yharon",
+      "Price": 10809730.0,
+      "ID": 1071,
+      "Mod": "CalamityMod.CalamityMod"
+    },
+    {
+      "Name": "Alchemist",
+      "Price": 550.0,
+      "ID": 1072,
+      "Mod": "AlchemistNPCLite.AlchemistNPCLite"
+    },
+    {
+      "Name": "Architect",
+      "Price": 550.0,
+      "ID": 1073,
+      "Mod": "AlchemistNPCLite.AlchemistNPCLite"
+    },
+    {
+      "Name": "Brewer",
+      "Price": 550.0,
+      "ID": 1074,
+      "Mod": "AlchemistNPCLite.AlchemistNPCLite"
+    },
+    {
+      "Name": "Jeweler",
+      "Price": 450.0,
+      "ID": 1075,
+      "Mod": "AlchemistNPCLite.AlchemistNPCLite"
+    },
+    {
+      "Name": "Musician",
+      "Price": 450.0,
+      "ID": 1076,
+      "Mod": "AlchemistNPCLite.AlchemistNPCLite"
+    },
+    {
+      "Name": "Operator",
+      "Price": 1200.0,
+      "ID": 1077,
+      "Mod": "AlchemistNPCLite.AlchemistNPCLite"
+    },
+    {
+      "Name": "YoungBrewer",
+      "Price": 550.0,
+      "ID": 1078,
+      "Mod": "AlchemistNPCLite.AlchemistNPCLite"
+    },
+    {
+      "Name": "Abominationn",
+      "Price": 652760.0,
+      "ID": 1079,
+      "Mod": "FargowiltasSouls.Fargowiltas"
+    },
+    {
+      "Name": "MiniSaucer",
+      "Price": 780.0,
+      "ID": 1080,
+      "Mod": "FargowiltasSouls.Fargowiltas"
+    },
+    {
+      "Name": "Eridanus,ChampionofCosmos",
+      "Price": 501640.0,
+      "ID": 1081,
+      "Mod": "FargowiltasSouls.Fargowiltas"
+    },
+    {
+      "Name": "ChampionofEarth",
+      "Price": 321460.0,
+      "ID": 1082,
+      "Mod": "FargowiltasSouls.Fargowiltas"
+    },
+    {
+      "Name": "ChampionofEarth",
+      "Price": 321460.0,
+      "ID": 1083,
+      "Mod": "FargowiltasSouls.Fargowiltas"
+    },
+    {
+      "Name": "LesserFairy",
+      "Price": 1801.0,
+      "ID": 1084,
+      "Mod": "FargowiltasSouls.Fargowiltas"
+    },
+    {
+      "Name": "LesserSquirrel",
+      "Price": 1800.0,
+      "ID": 1085,
+      "Mod": "FargowiltasSouls.Fargowiltas"
+    },
+    {
+      "Name": "ChampionofLife",
+      "Price": 36600.0,
+      "ID": 1086,
+      "Mod": "FargowiltasSouls.Fargowiltas"
+    },
+    {
+      "Name": "ChampionofNature",
+      "Price": 901300.0,
+      "ID": 1087,
+      "Mod": "FargowiltasSouls.Fargowiltas"
+    },
+    {
+      "Name": "ChampionofNature",
+      "Price": 901300.0,
+      "ID": 1088,
+      "Mod": "FargowiltasSouls.Fargowiltas"
+    },
+    {
+      "Name": "ChampionofShadow",
+      "Price": 331420.0,
+      "ID": 1089,
+      "Mod": "FargowiltasSouls.Fargowiltas"
+    },
+    {
+      "Name": "ShadowOrb",
+      "Price": 29997.0,
+      "ID": 1090,
+      "Mod": "FargowiltasSouls.Fargowiltas"
+    },
+    {
+      "Name": "ChampionofSpirit",
+      "Price": 551330.0,
+      "ID": 1091,
+      "Mod": "FargowiltasSouls.Fargowiltas"
+    },
+    {
+      "Name": "ChampionofSpirit",
+      "Price": 551330.0,
+      "ID": 1092,
+      "Mod": "FargowiltasSouls.Fargowiltas"
+    },
+    {
+      "Name": "ChampionofTerra",
+      "Price": 171560.0,
+      "ID": 1093,
+      "Mod": "FargowiltasSouls.Fargowiltas"
+    },
+    {
+      "Name": "ChampionofTerra",
+      "Price": 171560.0,
+      "ID": 1094,
+      "Mod": "FargowiltasSouls.Fargowiltas"
+    },
+    {
+      "Name": "ChampionofTerra",
+      "Price": 171560.0,
+      "ID": 1095,
+      "Mod": "FargowiltasSouls.Fargowiltas"
+    },
+    {
+      "Name": "ChampionofTimber",
+      "Price": 161400.0,
+      "ID": 1096,
+      "Mod": "FargowiltasSouls.Fargowiltas"
+    },
+    {
+      "Name": "ChampionofTimber",
+      "Price": 161400.0,
+      "ID": 1097,
+      "Mod": "FargowiltasSouls.Fargowiltas"
+    },
+    {
+      "Name": "ChampionofWill",
+      "Price": 421360.0,
+      "ID": 1098,
+      "Mod": "FargowiltasSouls.Fargowiltas"
+    },
+    {
+      "Name": "TopHatSquirrel",
+      "Price": 100.0,
+      "ID": 1099,
+      "Mod": "FargowiltasSouls.Fargowiltas"
+    },
+    {
+      "Name": "Deviantt",
+      "Price": 8160.0,
+      "ID": 1100,
+      "Mod": "FargowiltasSouls.Fargowiltas"
+    },
+    {
+      "Name": "BabyGuardian",
+      "Price": 21997.0,
+      "ID": 1101,
+      "Mod": "FargowiltasSouls.Fargowiltas"
+    },
+    {
+      "Name": "BrainofCthulhu",
+      "Price": 1328.0,
+      "ID": 1102,
+      "Mod": "FargowiltasSouls.Fargowiltas"
+    },
+    {
+      "Name": "BrainofCthulhu",
+      "Price": 1328.0,
+      "ID": 1103,
+      "Mod": "FargowiltasSouls.Fargowiltas"
+    },
+    {
+      "Name": "BrainofCthulhu",
+      "Price": 1328.0,
+      "ID": 1104,
+      "Mod": "FargowiltasSouls.Fargowiltas"
+    },
+    {
+      "Name": "GuttedCreeper",
+      "Price": 240.0,
+      "ID": 1105,
+      "Mod": "FargowiltasSouls.Fargowiltas"
+    },
+    {
+      "Name": "CrystalLeaf",
+      "Price": 30597.0,
+      "ID": 1106,
+      "Mod": "FargowiltasSouls.Fargowiltas"
+    },
+    {
+      "Name": "DetonatingBubble",
+      "Price": 1001.0,
+      "ID": 1107,
+      "Mod": "FargowiltasSouls.Fargowiltas"
+    },
+    {
+      "Name": "DetonatingBubble",
+      "Price": 1001.0,
+      "ID": 1108,
+      "Mod": "FargowiltasSouls.Fargowiltas"
+    },
+    {
+      "Name": "RoyalSubject",
+      "Price": 1016.0,
+      "ID": 1109,
+      "Mod": "FargowiltasSouls.Fargowiltas"
+    },
+    {
+      "Name": "Mutant",
+      "Price": 3504320.0,
+      "ID": 1110,
+      "Mod": "FargowiltasSouls.Fargowiltas"
+    },
+    {
+      "Name": "Mutant",
+      "Price": 3504320.0,
+      "ID": 1111,
+      "Mod": "FargowiltasSouls.Fargowiltas"
+    },
+    {
+      "Name": "CeilingofMoonLord",
+      "Price": 326350.0,
+      "ID": 1112,
+      "Mod": "FargowiltasSoulsDLC.FargowiltasSoulsDLC"
+    },
+    {
+      "Name": "CeilingofMoonLord",
+      "Price": 326350.0,
+      "ID": 1113,
+      "Mod": "FargowiltasSoulsDLC.FargowiltasSoulsDLC"
+    },
+    {
+      "Name": "CeilingofMoonLord",
+      "Price": 326350.0,
+      "ID": 1114,
+      "Mod": "FargowiltasSoulsDLC.FargowiltasSoulsDLC"
+    },
+    {
+      "Name": "Echdeath",
+      "Price": 99999.0,
+      "ID": 1115,
+      "Mod": "FargowiltasSoulsDLC.FargowiltasSoulsDLC"
+    },
+    {
+      "Name": "CelebrationMk2",
+      "Price": 1505200.0,
+      "ID": 1116,
+      "Mod": "FargowiltasSoulsDLC.FargowiltasSoulsDLC"
+    },
+    {
+      "Name": "VenusMagnum",
+      "Price": 1505200.0,
+      "ID": 1117,
+      "Mod": "FargowiltasSoulsDLC.FargowiltasSoulsDLC"
+    },
+    {
+      "Name": "Quad-BarrelShotgun",
+      "Price": 1505200.0,
+      "ID": 1118,
+      "Mod": "FargowiltasSoulsDLC.FargowiltasSoulsDLC"
+    },
+    {
+      "Name": "TacticalShotgun",
+      "Price": 1505200.0,
+      "ID": 1119,
+      "Mod": "FargowiltasSoulsDLC.FargowiltasSoulsDLC"
+    },
+    {
+      "Name": "SniperRifle",
+      "Price": 1505200.0,
+      "ID": 1120,
+      "Mod": "FargowiltasSoulsDLC.FargowiltasSoulsDLC"
+    },
+    {
+      "Name": "Guntera",
+      "Price": 1503950.0,
+      "ID": 1121,
+      "Mod": "FargowiltasSoulsDLC.FargowiltasSoulsDLC"
+    },
+    {
+      "Name": "Guntera'sHook",
+      "Price": 1504200.0,
+      "ID": 1122,
+      "Mod": "FargowiltasSoulsDLC.FargowiltasSoulsDLC"
+    },
+    {
+      "Name": "Guntera'sTentacle",
+      "Price": 1504200.0,
+      "ID": 1123,
+      "Mod": "FargowiltasSoulsDLC.FargowiltasSoulsDLC"
+    },
+    {
+      "Name": "Uzi",
+      "Price": 1505200.0,
+      "ID": 1124,
+      "Mod": "FargowiltasSoulsDLC.FargowiltasSoulsDLC"
+    },
+    {
+      "Name": "Professor",
+      "Price": 380.0,
+      "ID": 1125,
+      "Mod": "Pokemmon.Pokemmon"
+    },
+    {
+      "Name": "MinionTarget",
+      "Price": 6.0,
+      "ID": 1126,
+      "Mod": "SummonersAssociation.SummonersAssociation"
+    },
+    {
+      "Name": "ComboBubble",
+      "Price": 1.0,
+      "ID": 1127,
+      "Mod": "WeaponOut.WeaponOut"
+    },
+    {
+      "Name": "Abominationn",
+      "Price": 380.0,
+      "ID": 1128,
+      "Mod": "Fargowiltas.Fargowiltas"
+    },
+    {
+      "Name": "Deviantt",
+      "Price": 380.0,
+      "ID": 1129,
+      "Mod": "Fargowiltas.Fargowiltas"
+    },
+    {
+      "Name": "LumberJack",
+      "Price": 380.0,
+      "ID": 1130,
+      "Mod": "Fargowiltas.Fargowiltas"
+    },
+    {
+      "Name": "Mutant",
+      "Price": 380.0,
+      "ID": 1131,
+      "Mod": "Fargowiltas.Fargowiltas"
+    },
+    {
+      "Name": "Squirrel",
+      "Price": 100.0,
+      "ID": 1132,
+      "Mod": "Fargowiltas.Fargowiltas"
+    },
+    {
+      "Name": "SuperDummy",
+      "Price": 2147483647.0,
+      "ID": 1133,
+      "Mod": "Fargowiltas.Fargowiltas"
     }
   ]
 }
