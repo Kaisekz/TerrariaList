@@ -51434,31 +51434,31 @@
     },
     {
       "Name": "ExpCandyL",
-      "Price": 1.0,
+      "Price": 250.0,
       "ID": 8572,
       "Mod": "Pokemmon.Pokemmon"
     },
     {
       "Name": "ExpCandyM",
-      "Price": 1.0,
+      "Price": 200.0,
       "ID": 8573,
       "Mod": "Pokemmon.Pokemmon"
     },
     {
       "Name": "ExpCandyS",
-      "Price": 1.0,
+      "Price": 150.0,
       "ID": 8574,
       "Mod": "Pokemmon.Pokemmon"
     },
     {
       "Name": "ExpCandyXL",
-      "Price": 1.0,
+      "Price": 300.0,
       "ID": 8575,
       "Mod": "Pokemmon.Pokemmon"
     },
     {
       "Name": "ExpCandyXS",
-      "Price": 1.0,
+      "Price": 100.0,
       "ID": 8576,
       "Mod": "Pokemmon.Pokemmon"
     },
