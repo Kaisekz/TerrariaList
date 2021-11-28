@@ -8,7 +8,7 @@
     },
     {
       "Name": "IronPickaxe",
-      "Price": 2000.0,
+      "Price": 1000.0,
       "ID": 1,
       "Mod": "Vanilla"
     },
@@ -26,31 +26,31 @@
     },
     {
       "Name": "IronBroadsword",
-      "Price": 1800.0,
+      "Price": 1000.0,
       "ID": 4,
       "Mod": "Vanilla"
     },
     {
       "Name": "Mushroom",
-      "Price": 1250.0,
+      "Price": 100.0,
       "ID": 5,
       "Mod": "Vanilla"
     },
     {
       "Name": "IronShortsword",
-      "Price": 1400.0,
+      "Price": 1000.0,
       "ID": 6,
       "Mod": "Vanilla"
     },
     {
       "Name": "IronHammer",
-      "Price": 1600.0,
+      "Price": 1000.0,
       "ID": 7,
       "Mod": "Vanilla"
     },
     {
       "Name": "Torch",
-      "Price": 50.0,
+      "Price": 10.0,
       "ID": 8,
       "Mod": "Vanilla"
     },
@@ -62,79 +62,79 @@
     },
     {
       "Name": "IronAxe",
-      "Price": 1600.0,
+      "Price": 1000.0,
       "ID": 10,
       "Mod": "Vanilla"
     },
     {
       "Name": "IronOre",
-      "Price": 500.0,
+      "Price": 50.0,
       "ID": 11,
       "Mod": "Vanilla"
     },
     {
       "Name": "CopperOre",
-      "Price": 250.0,
+      "Price": 50.0,
       "ID": 12,
       "Mod": "Vanilla"
     },
     {
       "Name": "GoldOre",
-      "Price": 2000.0,
+      "Price": 100.0,
       "ID": 13,
       "Mod": "Vanilla"
     },
     {
       "Name": "SilverOre",
-      "Price": 1000.0,
+      "Price": 100.0,
       "ID": 14,
       "Mod": "Vanilla"
     },
     {
       "Name": "CopperWatch",
-      "Price": 1000.0,
+      "Price": 100.0,
       "ID": 15,
       "Mod": "Vanilla"
     },
     {
       "Name": "SilverWatch",
-      "Price": 5000.0,
+      "Price": 200.0,
       "ID": 16,
       "Mod": "Vanilla"
     },
     {
       "Name": "GoldWatch",
-      "Price": 10000.0,
+      "Price": 300.0,
       "ID": 17,
       "Mod": "Vanilla"
     },
     {
       "Name": "DepthMeter",
-      "Price": 12500.0,
+      "Price": 1000.0,
       "ID": 18,
       "Mod": "Vanilla"
     },
     {
       "Name": "GoldBar",
-      "Price": 6000.0,
+      "Price": 150.0,
       "ID": 19,
       "Mod": "Vanilla"
     },
     {
       "Name": "CopperBar",
-      "Price": 750.0,
+      "Price": 50.0,
       "ID": 20,
       "Mod": "Vanilla"
     },
     {
       "Name": "SilverBar",
-      "Price": 3000.0,
+      "Price": 75.0,
       "ID": 21,
       "Mod": "Vanilla"
     },
     {
       "Name": "IronBar",
-      "Price": 1500.0,
+      "Price": 100.0,
       "ID": 22,
       "Mod": "Vanilla"
     },
@@ -170,13 +170,13 @@
     },
     {
       "Name": "LesserHealingPotion",
-      "Price": 300.0,
+      "Price": 50.0,
       "ID": 28,
       "Mod": "Vanilla"
     },
     {
       "Name": "LifeCrystal",
-      "Price": 75000.0,
+      "Price": 100.0,
       "ID": 29,
       "Mod": "Vanilla"
     },
@@ -194,25 +194,25 @@
     },
     {
       "Name": "WoodenTable",
-      "Price": 300.0,
+      "Price": 50.0,
       "ID": 32,
       "Mod": "Vanilla"
     },
     {
       "Name": "Furnace",
-      "Price": 300.0,
+      "Price": 75.0,
       "ID": 33,
       "Mod": "Vanilla"
     },
     {
       "Name": "WoodenChair",
-      "Price": 150.0,
+      "Price": 100.0,
       "ID": 34,
       "Mod": "Vanilla"
     },
     {
       "Name": "IronAnvil",
-      "Price": 5000.0,
+      "Price": 100.0,
       "ID": 35,
       "Mod": "Vanilla"
     },
@@ -230,7 +230,7 @@
     },
     {
       "Name": "Lens",
-      "Price": 500.0,
+      "Price": 10.0,
       "ID": 38,
       "Mod": "Vanilla"
     },
@@ -320,13 +320,13 @@
     },
     {
       "Name": "CloudinaBottle",
-      "Price": 50000.0,
+      "Price": 500.0,
       "ID": 53,
       "Mod": "Vanilla"
     },
     {
       "Name": "HermesBoots",
-      "Price": 50000.0,
+      "Price": 500.0,
       "ID": 54,
       "Mod": "Vanilla"
     },
@@ -338,13 +338,13 @@
     },
     {
       "Name": "DemoniteOre",
-      "Price": 4000.0,
+      "Price": 100.0,
       "ID": 56,
       "Mod": "Vanilla"
     },
     {
       "Name": "DemoniteBar",
-      "Price": 16000.0,
+      "Price": 150.0,
       "ID": 57,
       "Mod": "Vanilla"
     },
@@ -452,7 +452,7 @@
     },
     {
       "Name": "FallenStar",
-      "Price": 10000.0,
+      "Price": 25.0,
       "ID": 75,
       "Mod": "Vanilla"
     },
@@ -16544,67 +16544,67 @@
     },
     {
       "Name": "VortexHelmet",
-      "Price": 10.0,
+      "Price": 500000.0,
       "ID": 2757,
       "Mod": "Vanilla"
     },
     {
       "Name": "VortexBreastplate",
-      "Price": 10.0,
+      "Price": 500000.0,
       "ID": 2758,
       "Mod": "Vanilla"
     },
     {
       "Name": "VortexLeggings",
-      "Price": 10.0,
+      "Price": 500000.0,
       "ID": 2759,
       "Mod": "Vanilla"
     },
     {
       "Name": "NebulaHelmet",
-      "Price": 10.0,
+      "Price": 500000.0,
       "ID": 2760,
       "Mod": "Vanilla"
     },
     {
       "Name": "NebulaBreastplate",
-      "Price": 10.0,
+      "Price": 500000.0,
       "ID": 2761,
       "Mod": "Vanilla"
     },
     {
       "Name": "NebulaLeggings",
-      "Price": 10.0,
+      "Price": 500000.0,
       "ID": 2762,
       "Mod": "Vanilla"
     },
     {
       "Name": "SolarFlareHelmet",
-      "Price": 10.0,
+      "Price": 500000.0,
       "ID": 2763,
       "Mod": "Vanilla"
     },
     {
       "Name": "SolarFlareBreastplate",
-      "Price": 10.0,
+      "Price": 500000.0,
       "ID": 2764,
       "Mod": "Vanilla"
     },
     {
       "Name": "SolarFlareLeggings",
-      "Price": 10.0,
+      "Price": 500000.0,
       "ID": 2765,
       "Mod": "Vanilla"
     },
     {
       "Name": "SolarTabletFragment",
-      "Price": 10.0,
+      "Price": 500000.0,
       "ID": 2766,
       "Mod": "Vanilla"
     },
     {
       "Name": "SolarTablet",
-      "Price": 10.0,
+      "Price": 500000.0,
       "ID": 2767,
       "Mod": "Vanilla"
     },
@@ -43724,7 +43724,7 @@
     },
     {
       "Name": "Cosmolight",
-      "Price": 10.0,
+      "Price": 250000.0,
       "ID": 7287,
       "Mod": "CalamityMod.CalamityMod"
     },
@@ -61598,7 +61598,7 @@
     },
     {
       "Name": "CrucibleoftheCosmos",
-      "Price": 10.0,
+      "Price": 500000.0,
       "ID": 10266,
       "Mod": "Fargowiltas.Fargowiltas"
     },
