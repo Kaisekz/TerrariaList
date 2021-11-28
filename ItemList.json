@@ -16544,67 +16544,67 @@
     },
     {
       "Name": "VortexHelmet",
-      "Price": 50000.0,
+      "Price": 10.0,
       "ID": 2757,
       "Mod": "Vanilla"
     },
     {
       "Name": "VortexBreastplate",
-      "Price": 50000.0,
+      "Price": 10.0,
       "ID": 2758,
       "Mod": "Vanilla"
     },
     {
       "Name": "VortexLeggings",
-      "Price": 50000.0,
+      "Price": 10.0,
       "ID": 2759,
       "Mod": "Vanilla"
     },
     {
       "Name": "NebulaHelmet",
-      "Price": 50000.0,
+      "Price": 10.0,
       "ID": 2760,
       "Mod": "Vanilla"
     },
     {
       "Name": "NebulaBreastplate",
-      "Price": 50000.0,
+      "Price": 10.0,
       "ID": 2761,
       "Mod": "Vanilla"
     },
     {
       "Name": "NebulaLeggings",
-      "Price": 50000.0,
+      "Price": 10.0,
       "ID": 2762,
       "Mod": "Vanilla"
     },
     {
       "Name": "SolarFlareHelmet",
-      "Price": 50000.0,
+      "Price": 10.0,
       "ID": 2763,
       "Mod": "Vanilla"
     },
     {
       "Name": "SolarFlareBreastplate",
-      "Price": 50000.0,
+      "Price": 10.0,
       "ID": 2764,
       "Mod": "Vanilla"
     },
     {
       "Name": "SolarFlareLeggings",
-      "Price": 50000.0,
+      "Price": 10.0,
       "ID": 2765,
       "Mod": "Vanilla"
     },
     {
       "Name": "SolarTabletFragment",
-      "Price": 10000.0,
+      "Price": 10.0,
       "ID": 2766,
       "Mod": "Vanilla"
     },
     {
       "Name": "SolarTablet",
-      "Price": 20000.0,
+      "Price": 10.0,
       "ID": 2767,
       "Mod": "Vanilla"
     },
@@ -19910,91 +19910,91 @@
     },
     {
       "Name": "TreasureBag",
-      "Price": 500.0,
+      "Price": 10.0,
       "ID": 3318,
       "Mod": "Vanilla"
     },
     {
       "Name": "TreasureBag",
-      "Price": 500.0,
+      "Price": 10.0,
       "ID": 3319,
       "Mod": "Vanilla"
     },
     {
       "Name": "TreasureBag",
-      "Price": 500.0,
+      "Price": 10.0,
       "ID": 3320,
       "Mod": "Vanilla"
     },
     {
       "Name": "TreasureBag",
-      "Price": 500.0,
+      "Price": 10.0,
       "ID": 3321,
       "Mod": "Vanilla"
     },
     {
       "Name": "TreasureBag",
-      "Price": 500.0,
+      "Price": 10.0,
       "ID": 3322,
       "Mod": "Vanilla"
     },
     {
       "Name": "TreasureBag",
-      "Price": 500.0,
+      "Price": 10.0,
       "ID": 3323,
       "Mod": "Vanilla"
     },
     {
       "Name": "TreasureBag",
-      "Price": 500.0,
+      "Price": 10.0,
       "ID": 3324,
       "Mod": "Vanilla"
     },
     {
       "Name": "TreasureBag",
-      "Price": 500.0,
+      "Price": 10.0,
       "ID": 3325,
       "Mod": "Vanilla"
     },
     {
       "Name": "TreasureBag",
-      "Price": 500.0,
+      "Price": 10.0,
       "ID": 3326,
       "Mod": "Vanilla"
     },
     {
       "Name": "TreasureBag",
-      "Price": 500.0,
+      "Price": 10.0,
       "ID": 3327,
       "Mod": "Vanilla"
     },
     {
       "Name": "TreasureBag",
-      "Price": 500.0,
+      "Price": 10.0,
       "ID": 3328,
       "Mod": "Vanilla"
     },
     {
       "Name": "TreasureBag",
-      "Price": 500.0,
+      "Price": 10.0,
       "ID": 3329,
       "Mod": "Vanilla"
     },
     {
       "Name": "TreasureBag",
-      "Price": 500.0,
+      "Price": 10.0,
       "ID": 3330,
       "Mod": "Vanilla"
     },
     {
       "Name": "TreasureBag",
-      "Price": 500.0,
+      "Price": 10.0,
       "ID": 3331,
       "Mod": "Vanilla"
     },
     {
       "Name": "TreasureBag",
-      "Price": 500.0,
+      "Price": 10.0,
       "ID": 3332,
       "Mod": "Vanilla"
     },
@@ -40538,7 +40538,7 @@
     },
     {
       "Name": "ProfanedCrucible",
-      "Price": 200000.0,
+      "Price": 10.0,
       "ID": 6756,
       "Mod": "CalamityMod.CalamityMod"
     },
@@ -61598,7 +61598,7 @@
     },
     {
       "Name": "CrucibleoftheCosmos",
-      "Price": 200000.0,
+      "Price": 10.0,
       "ID": 10266,
       "Mod": "Fargowiltas.Fargowiltas"
     },
